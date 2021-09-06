@@ -59,7 +59,7 @@ In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat
 2. Pak een A4 en maak een aantal schetsen aan de hand van het template. 
 3. Na bovenstaande stappen zorgvuldig doorlopen te hebben weet je ongeveer wat je gaat bouwen. Je kunt nu goed voorbereid door naar de volgende fase.
 
-<!-- KR: Dit kan beter in de bbouwfase, als ze met HTML, CSS en JS aan de slag gaan
+<!-- KR: Dit kan beter in de b  ouwfase, als ze met HTML, CSS en JS aan de slag gaan
 En we gaan nog niet documenteren in deze leertaak, dat komt vrijdag.
 4. Fork deze repository en documenteer je bevindingen in de README.md 
 -->
