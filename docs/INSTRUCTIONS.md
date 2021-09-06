@@ -135,7 +135,6 @@ In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Laat jou
 </details>
 
 ## Criteria
-*Definitions of done*
 
 Je bent klaar als je nieuwe CSS features hebt toegepast op je visitekaartje en de je nieuwe versie is gepubliceerd en getest. 
 
