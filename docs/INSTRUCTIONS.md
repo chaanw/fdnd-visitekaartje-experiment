@@ -1,7 +1,7 @@
 <img src="VisitekaartjeExperiment.jpg" width="350" style="float:left">
 
 # Visitekaartje Experiment
-Je gaat verder werken aan jouw eerste versie van je visitekaartje door te experimenteren met toffe CSS features. 
+Je gaat verder werken aan jouw eerste versie van het visitekaartje door te experimenteren met toffe CSS features. 
 
 ## Context
 Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een _experiment_ taak.
