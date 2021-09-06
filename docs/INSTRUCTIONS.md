@@ -56,10 +56,10 @@ In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat
 <summary>Aanpak</summary>
 
 1. In de workshop *Trucjes met CSS 1* heb je een aantal inspirerende voorbeelden gezien van wat mogelijk is met CSS. Ontwerp een nieuwe versie van je visitekaartje en probeer hierbij, net als bij de voorbeelden is gedaan, out-of-the-box te denken. 
-2. Pak een A4 en maak een aantal schetsen aan de hand van het template. 
+2. Maak een aantal schetsen aan de hand van het template. 
 3. Na bovenstaande stappen zorgvuldig doorlopen te hebben weet je ongeveer wat je gaat bouwen. Je kunt nu goed voorbereid door naar de volgende fase.
 
-<!-- KR: Dit kan beter in de b  ouwfase, als ze met HTML, CSS en JS aan de slag gaan
+<!-- KR: stap 4 kan beter in de bouwfase, als ze met HTML, CSS en JS aan de slag gaan
 En we gaan nog niet documenteren in deze leertaak, dat komt vrijdag.
 4. Fork deze repository en documenteer je bevindingen in de README.md 
 -->
@@ -87,8 +87,8 @@ In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en J
 - Heb je een mooi ontwerp gemaakt van jou visitekaartje op basis van een van de inspirerende voorbeelden? Onderzoek hoe het voorbeeld is gemaakt door het lezen van de tutorial als dat er bij zit, of als er geen tutorial is door gebruik te maken van de *DevTools* van je browser. Maak het voorbeeld voor jouw visitekaartje. 
 - Heb je zelf iets ontworpen en kan je niet terugvallen op een voorbeeld, dan zal je zelf moeten bedenken/uitzoeken hoe je dat met CSS kan bouwen. Met de in de workshop behandelde CSS features en onderstaande bronnen kan je al een heel eind komen! 
 
-<!-- KR: Deze stap hoort bij 'integreren', zo heb ik het maandag gepresenteerd.
- Als je aanpassingen hebt gedaan waar je tevreden over bent, kan je het committen en pushen naar GitHub. 
+<!-- KR: onderstaande stap hoort bij 'integreren', zo heb ik het maandag gepresenteerd.
+-  Als je aanpassingen hebt gedaan waar je tevreden over bent, kan je het committen en pushen naar GitHub. 
 -->
   
 #### Materiaal bouwfase
@@ -111,7 +111,7 @@ In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien. Je
 1. Doorloop dezelfde stappen als bij de duplicate leertaak om jouw code te publiceren.
 2. Als het goed is gegaan kan je binnen enkele momenten jouw visitekaartje bekijken via de URL: [https://username.github.io/fdnd-visitekaartje-experiment/](https://username.github.io/fdnd-visitekaartje-experiment/).
 
-<!-- KR: Dit hoort bij de test fase, checken of alles goed staat?
+<!-- KR: onderstaande hoort bij de test fase, checken of alles goed staat?
 3. Bekijk jouw visitekaartje even uitgebreid, ga daarna verder met de volgende fase.
 -->
   
