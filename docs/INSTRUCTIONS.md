@@ -19,7 +19,7 @@ Maak jij een 3D versie van je visitekaartje? Of regel je een dark-mode theme met
 
 ## Werkwijze
 
-Volg de taken in de verschillende fases van de Development lifecycle om jouw visitekaartje gestructureerd te herontwerpen, aan te passen en op Github te publiceren.
+Volg de fases van de Development lifecycle om jouw visitekaartje gestructureerd te herontwerpen, aan te passen en op Github te publiceren.
 
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
