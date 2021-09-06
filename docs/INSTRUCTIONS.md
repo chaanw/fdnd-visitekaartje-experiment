@@ -137,6 +137,10 @@ In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Laat jou
 ## Criteria
 *Definitions of done*
 
+Je bent klaar als je nieuwe CSS features hebt toegepast op je visitekaartje en de je nieuwe versie is gepubliceerd en getest. 
+
+<!-- KR: We gaan nog niet documenteren in deze leertaak, dat komt vrijdag:
 Je bent klaar als je jouw proces (ontwerpbeslissingen, schetsen, inzichten en testresultaten) hebt gedocumenteerd in de [README.md](../README.md) in jouw *fork* van deze repository. Ook moet jouw visitekaartje bereikbaar zijn via gh-pages.
+-->
 
 
