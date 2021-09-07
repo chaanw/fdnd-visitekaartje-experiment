@@ -92,7 +92,7 @@ In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien. Je
   
 #### Materiaal integreren
 
-- [duplicate leertaak - integreren](https://github.com/fdnd-task/fdnd-net-presence-duplicate/#integreren)
+- [Leertaak Visitekaartje Duplicate - integreren](https://github.com/fdnd-task/fdnd-visitekaartje-duplicate/blob/master/docs/INSTRUCTIONS.md#integreren)
 
 </details>
 
