@@ -66,7 +66,15 @@ In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en J
 <summary>Aanpak</summary>
 
 1. Fork deze repository en clone de code naar je computer met de Github-desktop app
-2. Werk in de geforkte repository van deze leertaak: 
+2. Werk in de geforkte repository van deze leertaak
+  
+#### Slimme CSS selectoren
+
+Pas in de code van jouw visitekaartje slimme CSS selectoren toe. Heb jij al classes toegepast? Probeer alle classes in je code te vervangen met slimme selectoren.
+
+ 
+#### Fancy CSS selectoren
+  
 - Heb je een mooi ontwerp gemaakt van jou visitekaartje op basis van een van de inspirerende voorbeelden? Onderzoek hoe het voorbeeld is gemaakt door het lezen van de tutorial als dat er bij zit, of als er geen tutorial is door gebruik te maken van de *DevTools* van je browser. Maak het voorbeeld voor jouw visitekaartje. 
 - Heb je zelf iets ontworpen en kan je niet terugvallen op een voorbeeld, dan zal je zelf moeten bedenken/uitzoeken hoe je dat met CSS kan bouwen. Met de in de workshop behandelde CSS features en onderstaande bronnen kan je al een heel eind komen! 
   
