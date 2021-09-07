@@ -1,10 +1,10 @@
 <img src="VisitekaartjeExperiment.jpg" width="350" style="float:left">
 
-# Visitekaartje Experiment
+# Visitekaartje
 Je gaat verder werken aan jouw eerste versie van het visitekaartje door te experimenteren met toffe CSS features. 
 
 ## Context
-Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een _experiment_ taak.
+Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een _experiment_ taak die je individueel gaat uitvoeren.
 
 ## Briefing
 Het Web is constant in beweging en dat geldt ook voor de ontwikkeling van CSS. Experimenteren met nieuwe features (of je verdiepen in reeds bestaande features) is een belangrijke competentie van een Frontender!
