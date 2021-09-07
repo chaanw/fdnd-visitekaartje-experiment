@@ -34,17 +34,6 @@ In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voere
 1. Lees de instructies van deze leertaak zorgvuldig door.
 2. Bekijk de verschillende fases van de Development Lifecycle en wat je per fase gaat doen.
 3. Bespreek wat je aan werk verwacht en maak aantekening.
-
-<!--
-KR: Ik heb deze stappen uit de duplicate leertaak gekopieerd. Studenten krigen de opdracht de hele leertaak te bekijken. Dat hoort bij de analysefase. 
-Onderstaande stappen kunnen dan weg:
-Voor het uitvoeren van deze taak nemen we een aantal stappen, we gaan:
-1. een aantal ontwerpbeslissingen nemen op basis van de uitleg
-2. die beslissingen inbouwen in het bestaande visitekaartje
-3. jouw visitekaartje publiceren via Github pages
-4. het visitekaartje testen op klasgenoten
-5. het proces documenteren in de [README.md](../README.md) van de geforkte repository
--->
   
 </details>
 
@@ -58,12 +47,6 @@ In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat
 1. In de workshop *Trucjes met CSS 1* heb je een aantal inspirerende voorbeelden gezien van wat mogelijk is met CSS. Ontwerp een nieuwe versie van je visitekaartje en probeer hierbij, net als bij de voorbeelden is gedaan, out-of-the-box te denken. 
 2. Maak een aantal schetsen aan de hand van het template. 
 3. Na bovenstaande stappen zorgvuldig doorlopen te hebben weet je ongeveer wat je gaat bouwen. Je kunt nu goed voorbereid door naar de volgende fase.
-
-<!-- KR: stap 4 kan beter in de bouwfase, als ze met HTML, CSS en JS aan de slag gaan
-En we gaan nog niet documenteren in deze leertaak, dat komt vrijdag.
-4. Fork deze repository en documenteer je bevindingen in de README.md 
--->
-
   
 #### Materiaal ontwerpfase
 
@@ -83,13 +66,9 @@ In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en J
 <summary>Aanpak</summary>
 
 1. Fork deze repository en clone de code naar je computer met de Github-desktop app
-3. Werk in de geforkte repository van deze leertaak: 
+2. Werk in de geforkte repository van deze leertaak: 
 - Heb je een mooi ontwerp gemaakt van jou visitekaartje op basis van een van de inspirerende voorbeelden? Onderzoek hoe het voorbeeld is gemaakt door het lezen van de tutorial als dat er bij zit, of als er geen tutorial is door gebruik te maken van de *DevTools* van je browser. Maak het voorbeeld voor jouw visitekaartje. 
 - Heb je zelf iets ontworpen en kan je niet terugvallen op een voorbeeld, dan zal je zelf moeten bedenken/uitzoeken hoe je dat met CSS kan bouwen. Met de in de workshop behandelde CSS features en onderstaande bronnen kan je al een heel eind komen! 
-
-<!-- KR: onderstaande stap hoort bij 'integreren', zo heb ik het maandag gepresenteerd.
--  Als je aanpassingen hebt gedaan waar je tevreden over bent, kan je het committen en pushen naar GitHub. 
--->
   
 #### Materiaal bouwfase
 
@@ -110,14 +89,10 @@ In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien. Je
 
 1. Doorloop dezelfde stappen als bij de duplicate leertaak om jouw code te publiceren.
 2. Als het goed is gegaan kan je binnen enkele momenten jouw visitekaartje bekijken via de URL: [https://username.github.io/fdnd-visitekaartje-experiment/](https://username.github.io/fdnd-visitekaartje-experiment/).
-
-<!-- KR: onderstaande hoort bij de test fase, checken of alles goed staat?
-3. Bekijk jouw visitekaartje even uitgebreid, ga daarna verder met de volgende fase.
--->
   
 #### Materiaal integreren
 
-- [duplicate leertaak](https://github.com/fdnd-task/fdnd-net-presence-duplicate)
+- [duplicate leertaak - integreren](https://github.com/fdnd-task/fdnd-net-presence-duplicate/#integreren)
 
 </details>
 
@@ -137,9 +112,3 @@ In de testfase controleer je of jouw aanpassingen werken zoals bedoeld. Laat jou
 ## Criteria
 
 Je bent klaar als je nieuwe CSS features hebt toegepast op je visitekaartje en de je nieuwe versie is gepubliceerd en getest. 
-
-<!-- KR: We gaan nog niet documenteren in deze leertaak, dat komt vrijdag:
-Je bent klaar als je jouw proces (ontwerpbeslissingen, schetsen, inzichten en testresultaten) hebt gedocumenteerd in de [README.md](../README.md) in jouw *fork* van deze repository. Ook moet jouw visitekaartje bereikbaar zijn via gh-pages.
--->
-
-
