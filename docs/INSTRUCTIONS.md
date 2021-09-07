@@ -69,7 +69,7 @@ In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en J
 2. Werk in de geforkte repository van deze leertaak
   
 #### Slimme CSS selectoren
-
+https://codeburst.io/css-tips-and-tricks-using-pseudo-class-fa83248bb6e0
 Pas in de code van jouw visitekaartje slimme CSS selectoren toe. Heb jij al classes toegepast? Probeer alle classes in je code te vervangen met slimme selectoren.
 
  
@@ -79,7 +79,11 @@ Pas in de code van jouw visitekaartje slimme CSS selectoren toe. Heb jij al clas
 - Heb je zelf iets ontworpen en kan je niet terugvallen op een voorbeeld, dan zal je zelf moeten bedenken/uitzoeken hoe je dat met CSS kan bouwen. Met de in de workshop behandelde CSS features en onderstaande bronnen kan je al een heel eind komen! 
   
 #### Materiaal bouwfase
-
+- [CSS diner](https://flukeout.github.io/)
+- [MDN selectoren](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
+- [Tips & Trics using pseudo-classes](https://codeburst.io/css-tips-and-tricks-using-pseudo-class-fa83248bb6e0)
+- [Creative button styles with pseudo](https://tympanus.net/Development/CreativeButtons/)
+- [CREATIVE LINK EFFECTS](https://tympanus.net/codrops/2013/08/06/creative-link-effects/)
 - [MDN Styling Text](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 - [MDN Background](https://developer.mozilla.org/en-US/docs/Web/CSS/background)
 - [MDN Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model)
