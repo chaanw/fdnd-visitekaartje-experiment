@@ -69,7 +69,6 @@ In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en J
 2. Werk in de geforkte repository van deze leertaak
   
 #### Slimme CSS selectoren
-https://codeburst.io/css-tips-and-tricks-using-pseudo-class-fa83248bb6e0
 Pas in de code van jouw visitekaartje slimme CSS selectoren toe. Heb jij al classes toegepast? Probeer alle classes in je code te vervangen met slimme selectoren.
 
  
